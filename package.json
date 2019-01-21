@@ -1,0 +1,44 @@
+{
+  "name": "reactjs-modal-dialog",
+  "version": "1.0.1",
+  "description": "A generic React.js modal dialog component",
+  "homepage": "https://www.amiroff.me",
+  "keywords": [
+    "react",
+    "modal",
+    "dialog",
+    "ui"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ameer157/reactjs-modal-dialog"
+  },
+  "main": "./lib/ModalComponent.js",
+  "license": "GPL-3.0",
+  "scripts": {
+    "build": "webpack"
+  },
+  "peerDependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "dependencies": {
+    "focus-trap-react": "3.1.2",
+    "classnames": "^2.2.6"
+  },
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "css-loader": "^2.0.1",
+    "path": "^0.12.7",
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.5.0",
+    "webpack-cli": "^3.1.2"
+  }
+}

@@ -33,4 +33,4 @@ import Modal from 'reactjs-modal-dialog'
 - The modal must be wrapped around an element that initiates it
 
 ---
-Created with ❤ by [Amir Off](https://github.com/ameer157).
+Created with ❤ by [Amir Off](https://github.com/amiroffme).
